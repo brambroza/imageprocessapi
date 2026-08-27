@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+# --- AIImageAPI additions ---
+models/
+*.onnx
+appsettings.Local.json
+appsettings.*.local.json
